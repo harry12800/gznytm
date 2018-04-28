@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gznytm.iml" filepath="$PROJECT_DIR$/gznytm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gznytm.business/gznytm.business.iml" filepath="$PROJECT_DIR$/../gznytm.business/gznytm.business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.barcode/harry12800.barcode.iml" filepath="$PROJECT_DIR$/../harry12800.barcode/harry12800.barcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.dbhelper/harry12800.dbhelper.iml" filepath="$PROJECT_DIR$/../harry12800.dbhelper/harry12800.dbhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.develper/harry12800.develper.iml" filepath="$PROJECT_DIR$/../harry12800.develper/harry12800.develper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.j2se/harry12800.j2se.iml" filepath="$PROJECT_DIR$/../harry12800.j2se/harry12800.j2se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.tools/harry12800.tools.iml" filepath="$PROJECT_DIR$/../harry12800.tools/harry12800.tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.tree2word/harry12800.tree2word.iml" filepath="$PROJECT_DIR$/../harry12800.tree2word/harry12800.tree2word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harry12800.wordexcel/harry12800.wordexcel.iml" filepath="$PROJECT_DIR$/../harry12800.wordexcel/harry12800.wordexcel.iml" />
+    </modules>
+  </component>
+</project>

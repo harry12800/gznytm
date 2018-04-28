@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../harry12800.tree2word" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../tree2word/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.barcode/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.j2se/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.tools/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.wordexcel/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.develper/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.dbhelper/pom.xml" />
+        <option value="$PROJECT_DIR$/../harry12800.tree2word/pom.xml" />
+        <option value="$PROJECT_DIR$/../gznytm.business/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

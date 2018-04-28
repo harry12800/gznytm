@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gznytm" />
+        <module name="gznytm.business" />
+        <module name="harry12800.barcode" />
+        <module name="harry12800.dbhelper" />
+        <module name="harry12800.develper" />
+        <module name="harry12800.j2se" />
+        <module name="harry12800.tools" />
+        <module name="harry12800.tree2word" />
+        <module name="harry12800.wordexcel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gznytm" target="1.5" />
+      <module name="gznytm.business" target="1.7" />
+      <module name="harry12800.barcode" target="1.5" />
+      <module name="harry12800.dbhelper" target="1.7" />
+      <module name="harry12800.develper" target="1.7" />
+      <module name="harry12800.j2se" target="1.7" />
+      <module name="harry12800.test" target="1.5" />
+      <module name="harry12800.tools" target="1.7" />
+      <module name="harry12800.tree2word" target="1.5" />
+      <module name="harry12800.wordexcel" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
